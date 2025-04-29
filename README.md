@@ -3,6 +3,9 @@
 ## 🌟 Overview
 A state-based procedural map generator with obstacle placement and smooth transitions. Perfect for endless runner or dungeon crawler games!
 
+
+![Gameplay Demo](./ezgif-88d5fbf791edc5.gif)
+
 ## 🚀 Features
 - 🔄 Three-state system (Load → Run → Destroy)
 - 🏗️ Customizable map generation
